@@ -11,18 +11,6 @@
     <image:image>
       <image:loc>https://ksusocialcomputing.github.io/KNEXT/images/secondary_logo_transparent_png.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>https://ksusocialcomputing.github.io/KNEXT/about-knext.html</loc>
-    <lastmod>2018-01-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://ksusocialcomputing.github.io/KNEXT/our-team.html</loc>
-    <lastmod>2018-01-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>https://ksusocialcomputing.github.io/KNEXT/images/emad%20khazraee.jpg</image:loc>
     </image:image>
@@ -39,10 +27,10 @@
       <image:loc>https://ksusocialcomputing.github.io/KNEXT/images/david%20jurca.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ksusocialcomputing.github.io/KNEXT/images/bahareh%20gharehgozlou-crop-u516.jpg</image:loc>
+      <image:loc>https://ksusocialcomputing.github.io/KNEXT/images/bahareh%20gharehgozlou-crop-u807.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://ksusocialcomputing.github.io/KNEXT/images/jonathan%20brier-crop-u518.jpg</image:loc>
+      <image:loc>https://ksusocialcomputing.github.io/KNEXT/images/jonathan%20brier-crop-u809.jpg</image:loc>
     </image:image>
   </url>
   <url>

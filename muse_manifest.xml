@@ -1,55 +1,53 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ksusocialcomputing.github.io/KNEXT" resolutions="1x" timestamp="1516311828635">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ksusocialcomputing.github.io/KNEXT" resolutions="1x" timestamp="1516314942136">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="349253494" ref="news:about-knext:blog:index:our-team"/>
-    <file name="news.css" crc="4150601681" ref="news"/>
-    <file name="about-knext.css" crc="3903018644" ref="about-knext"/>
-    <file name="blog.css" crc="3917495690" ref="blog"/>
-    <file name="index.css" crc="4147458155" ref="index"/>
-    <file name="our-team.css" crc="338153492" ref="our-team"/>
+    <file name="news.css" crc="286448662" ref="news"/>
+    <file name="index.css" crc="4033674178" ref="index"/>
+    <file name="blog.css" crc="3987058100" ref="blog"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-knext:our-team:blog:news"/>
-    <file name="museutils.js" crc="3803043152" ref="index:about-knext:our-team:blog:news"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about-knext:our-team:blog:news"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:about-knext:our-team:blog:news"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about-knext:our-team:blog:news"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:about-knext:our-team:blog:news"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about-knext:our-team:blog:news"/>
-    <file name="require.js" crc="4157109226" ref="index:about-knext:our-team:blog:news"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blog:news"/>
+    <file name="museutils.js" crc="3803043152" ref="index:blog:news"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blog:news"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:blog:news"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:blog:news"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:blog:news"/>
+    <file name="require.js" crc="4157109226" ref="index:blog:news"/>
   </folder>
   <folder name="images">
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="download (1).jpg" crc="4073333420" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="secondary_logo_transparent_png.png" crc="4253707917" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="emad khazraee.jpg" crc="4259071687" seo="true" ref="our-team">
-      <caption webpage="our-team" alt=""/>
+    <file name="emad khazraee.jpg" crc="4259071687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="susan j winter.jpg" crc="103209094" seo="true" ref="our-team">
-      <caption webpage="our-team" alt=""/>
+    <file name="susan j winter.jpg" crc="103209094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="karen macdonald.jpg" crc="142815492" seo="true" ref="our-team">
-      <caption webpage="our-team" alt=""/>
+    <file name="karen macdonald.jpg" crc="142815492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="andrew mackenzie fellows.jpg" crc="363245884" seo="true" ref="our-team">
-      <caption webpage="our-team" alt=""/>
+    <file name="andrew mackenzie fellows.jpg" crc="363245884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="david jurca.jpg" crc="3850203974" seo="true" ref="our-team">
-      <caption webpage="our-team" alt=""/>
+    <file name="david jurca.jpg" crc="3850203974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="bahareh gharehgozlou-crop-u516.jpg" crc="4197545502" seo="true" ref="our-team">
-      <caption webpage="our-team" alt=""/>
+    <file name="bahareh gharehgozlou-crop-u807.jpg" crc="4197545502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="jonathan brier-crop-u518.jpg" crc="3830261258" seo="true" ref="our-team">
-      <caption webpage="our-team" alt=""/>
+    <file name="jonathan brier-crop-u809.jpg" crc="3830261258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="325532286" seo="true" mt="1516292278798" redirect="true"/>
-  <file name="about-knext.html" crc="305323942" seo="true" mt="1516292278798" redirect="true"/>
-  <file name="our-team.html" crc="4018944478" seo="true" mt="1516294538095" redirect="true"/>
-  <file name="blog.html" crc="3971444764" seo="true" mt="1516294614910" redirect="true"/>
-  <file name="news.html" crc="4144452488" seo="true" mt="1516294626002" redirect="true"/>
+  <file name="index.html" crc="504063080" seo="true" mt="1516314838106" redirect="true"/>
+  <file name="blog.html" crc="109562866" seo="true" mt="1516313295058" redirect="true"/>
+  <file name="news.html" crc="3852662799" seo="true" mt="1516313295058" redirect="true"/>
 </manifest>
